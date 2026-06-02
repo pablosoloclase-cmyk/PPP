@@ -1,9 +1,9 @@
 {
   "name": "El Sistema — Tracker RPG",
   "short_name": "El Sistema",
-  "description": "Tracker de hábitos con sistema RPG de formas y niveles. Tu progreso real como videojuego.",
-  "start_url": "/",
-  "scope": "/",
+  "description": "Tracker de hábitos con sistema RPG de formas y niveles.",
+  "start_url": "/PPP/",
+  "scope": "/PPP/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#05080f",
@@ -20,15 +20,6 @@
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "maskable"
-    }
-  ],
-  "categories": ["productivity", "lifestyle"],
-  "screenshots": [
-    {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 540 720'><rect fill='%23050810' width='540' height='720'/><text x='270' y='360' font-family='monospace' font-size='60' fill='%233fc9ff' text-anchor='middle' dominant-baseline='middle'>El Sistema</text></svg>",
-      "sizes": "540x720",
-      "type": "image/svg+xml",
-      "form_factor": "narrow"
     }
   ]
 }
